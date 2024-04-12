@@ -1,0 +1,12 @@
+package lms;
+
+public class Laptop1 {
+	String brand;
+	String colour;
+	int price;
+	int taxprice;
+	int taxpercentage;
+	float displaysize;
+	boolean isTouchScreen;
+
+}

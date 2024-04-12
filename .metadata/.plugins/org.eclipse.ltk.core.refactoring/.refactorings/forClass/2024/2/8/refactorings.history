@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Employee.java&apos; to &apos;functions/src/functions&apos;&#x0D;&#x0A;- Original project: &apos;forClass&apos;&#x0D;&#x0A;- Destination element: &apos;functions/src/functions&apos;&#x0D;&#x0A;- Original element: &apos;for2.Employee.java&apos;" description="Copy compilation unit" destination="=functions/src&lt;functions" element1="/src&lt;for2{Employee.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1708766196971" units="1" version="1.0"/>
+</session>

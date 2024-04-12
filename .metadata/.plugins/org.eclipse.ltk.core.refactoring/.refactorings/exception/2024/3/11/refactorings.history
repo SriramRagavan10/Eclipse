@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;exception.FileNotr&apos; to &apos;FileNot&apos;&#x0D;&#x0A;- Original project: &apos;exception&apos;&#x0D;&#x0A;- Original element: &apos;exception.FileNotr&apos;&#x0D;&#x0A;- Renamed element: &apos;exception.FileNot&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;FileNotr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;exception{FileNotr.java[FileNotr" matchStrategy="1" name="FileNot" qualified="false" references="true" similarDeclarations="false" stamp="1710222988818" textual="false" version="1.0"/>
+</session>
